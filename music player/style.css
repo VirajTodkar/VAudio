@@ -118,7 +118,6 @@ a{
    padding: 8px 15px 8px 15px; 
 }
 
-/*Trending section*/
 
 .album-list{
     width: 85%;
@@ -157,7 +156,6 @@ a{
     border-radius: 5px;
 }
 
-/*Live-music section*/
 
 .live-music{
     background-image: radial-gradient(rgb(243, 237, 237),rgb(240, 185, 102));
@@ -204,8 +202,6 @@ a{
 .play{
     font-size: 30px;
 }
-
-/* Center Charts*/
 
 
 .top-chart{
@@ -327,8 +323,6 @@ a{
     width: 100%;
     border-radius: 50%;
 }
-
-/*Recommended Artist Radio*/
 .artist-chart{
     font-size: 15px;
     height: 25px;
